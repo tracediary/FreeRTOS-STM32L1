@@ -1,0 +1,16 @@
+.\obj\freertossys.o: user\freertosSys.c
+.\obj\freertossys.o: .\rtos\include\FreeRTOS.h
+.\obj\freertossys.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\obj\freertossys.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\freertossys.o: .\rtos\include\FreeRTOSConfig.h
+.\obj\freertossys.o: .\rtos\include\projdefs.h
+.\obj\freertossys.o: .\rtos\include\portable.h
+.\obj\freertossys.o: .\rtos\include\deprecated_definitions.h
+.\obj\freertossys.o: .\rtos\include\portmacro.h
+.\obj\freertossys.o: .\rtos\include\mpu_wrappers.h
+.\obj\freertossys.o: .\rtos\include\task.h
+.\obj\freertossys.o: .\rtos\include\list.h
+.\obj\freertossys.o: .\rtos\include\semphr.h
+.\obj\freertossys.o: .\rtos\include\queue.h
+.\obj\freertossys.o: .\rtos\include\event_groups.h
+.\obj\freertossys.o: .\rtos\include\timers.h
