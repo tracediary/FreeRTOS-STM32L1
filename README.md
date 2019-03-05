@@ -1,1 +1,4 @@
 # FreeRTOS and STM32L1xx
+# PB5--LED
+# PA10--USART1-TX
+# PA9--USART1-RX
