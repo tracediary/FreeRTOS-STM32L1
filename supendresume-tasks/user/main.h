@@ -1,7 +1,5 @@
 /**
   ******************************************************************************
-  * @file    csf/app/main.c 
-  * @author  csf Application Team
   * @version V0.0.1
   * @date    2017-06-24
   * @brief   Main program body
